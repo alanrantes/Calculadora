@@ -14,4 +14,4 @@ A calculadora permite realizar operações básicas como adição, subtração, 
   
 ---
 
-✨ *Projeto desenvolvido a fins acadêmicos.*
+✨ *Projeto desenvolvido para fins acadêmicos.*
